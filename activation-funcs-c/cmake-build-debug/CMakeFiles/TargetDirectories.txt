@@ -1,0 +1,3 @@
+C:/Users/foxil/Documents/Progects/Mod and Errors prog2/diana_yurankova/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/foxil/Documents/Progects/Mod and Errors prog2/diana_yurankova/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/foxil/Documents/Progects/Mod and Errors prog2/diana_yurankova/cmake-build-debug/CMakeFiles/rebuild_cache.dir
